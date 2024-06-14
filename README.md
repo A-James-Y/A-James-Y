@@ -1,7 +1,5 @@
 # James-Y
 
-Software Developer in the making
-
 # Overview:
 
 I'm a final year computer science student with a minor in Mathematics studying at Memorial University, St. John's, Newfoundland, Canada. I have gained some software experience in the engineering, hospitality, tourism, and media industries. 
