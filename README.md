@@ -2,12 +2,12 @@
 
 # Overview:
 
-I'm a final year computer science student with a minor in Mathematics studying at Memorial University, St. John's, Newfoundland, Canada. I have gained some software experience in the engineering, hospitality, tourism, and media industries. 
+I'm a computer science graduate and technology professional with a minor in Mathematics at Memorial University, St. John's, Newfoundland, Canada. I have gained some software experience in the engineering, hospitality, tourism, and media industries. 
 
 # Credentials:
 
-- Software: Currently in the process of earning a Bachelor of Science University Degree & gained experience working in multiple software-related roles.
+- Software: Completed a Bachelor of Science Degree majoring in Computer Science, gaining experience working in software roles & coursework projects.
 
-- Mathematics: Completed a minor degree in the Bachelor of Science University Degree.
+- Mathematics: Completed a Bachelor of Science Degree minoring in Mathematics.
 
-- Business: Developed experience working in multiple marketing teams & coursework.
+- Business: Developed experience working in marketing teams & coursework projects.
