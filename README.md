@@ -1,4 +1,4 @@
-# James-Yacim
+# James Yacim
 
 # Overview:
 
